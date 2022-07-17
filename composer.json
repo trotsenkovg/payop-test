@@ -1,0 +1,20 @@
+{
+    "name": "valentyn/payop-test",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Valentyn Trotsenko",
+            "email": "valentyn8trotsenko@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-curl": "*",
+        "ext-json": "*"
+    }
+}
